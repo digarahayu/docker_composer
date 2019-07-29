@@ -1,11 +1,11 @@
-nginx-php7.3
+nginx-php7.3 MariaDB
 ==========
 Build image
 -----------
 
 ```bash
 git clone https://github.com/digarahayu/docker_composer.git
-cd Docker-Nginx-PHP-MySQL
+cd docker_composer
 
 ```
 
