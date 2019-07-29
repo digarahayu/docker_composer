@@ -1,10 +1,10 @@
-nginx-php7.2
+nginx-php7.3
 ==========
 Build image
 -----------
 
 ```bash
-git clone https://github.com/andreal01/Docker-Nginx-PHP-MySQL.git
+git clone https://github.com/digarahayu/docker_composer.git
 cd Docker-Nginx-PHP-MySQL
 
 ```
